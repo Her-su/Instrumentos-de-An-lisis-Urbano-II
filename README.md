@@ -1,2 +1,3 @@
 # Instrumentos-de-An-lisis-Urbano-II
-Clases 
+Clases escrito desde R _local_ 
+
